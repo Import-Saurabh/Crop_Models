@@ -1,0 +1,20 @@
+Disease,Probability
+Root Rot (Fusarium),0.48333333333333334
+Loose Smut,0.2
+Crown Rot,0.17666666666666667
+Seed Rot,0.17333333333333334
+Black Point,0.17333333333333334
+Damping-off (Pythium),0.17
+Seedling Blight (Fusarium),0.17
+Common Bunt,0.15
+Karnal Bunt,0.15
+Leaf Rust,0.11333333333333333
+Storage Fungi (Aspergillus),0.07
+Barley Yellow Dwarf Virus (BYDV),0.06333333333333334
+Yellow Rust,0.06333333333333334
+Septoria Leaf Blotch,0.043333333333333335
+Leaf Blight,0.02
+Stripe Rust,0.02
+Fusarium Head Blight,0.013333333333333334
+Soilborne Pathogens,0.01
+Weevil Infestation,0.01

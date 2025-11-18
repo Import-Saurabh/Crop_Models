@@ -1,0 +1,201 @@
+Crop Stage,Region,Crop Disease,Temp (°C),Humidity (%),Soil Moisture (%),Rainfall (mm),Soil pH,Cause,Organic Cure,Inorganic Cure
+Silking,Gondia,Leaf Blight,26,66.7,30.8,141.6,5.43,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Grain Filling,Nagpur,Downy Mildew,30.6,41.4,36.1,98.4,7.48,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Vegetative Growth,Buldhana,Downy Mildew,30.9,75,30.2,98.9,7.23,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Vegetative Growth,Latur,Smut,35.1,50.2,21.8,72.1,5.93,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Vegetative Growth,Jalna,Rust,31.4,60.8,37,114.9,5.56,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Silking,Nandurbar,Leaf Blight,33.2,70.3,17.1,146.5,5.42,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Maturation & Harvest,Nandurbar,Leaf Blight,32.8,63.7,28.5,82.8,5.66,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Germination & Emergence,Solapur,Leaf Blight,30.5,67.6,31.7,147.5,5.84,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Germination & Emergence,Sindhudurg,Downy Mildew,29.5,90.6,17.2,165.5,6.57,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Silking,Dhule,Leaf Blight,28.5,59.4,12.3,125.4,6.59,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Germination & Emergence,Solapur,Downy Mildew,29.2,80.1,38.5,112.7,5.2,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Seedling Stage,Sindhudurg,Downy Mildew,28.8,75.6,23.3,299.5,5.65,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Tasseling,Ratnagiri,Smut,31.3,84.7,36.2,261.3,5.67,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Silking,Gondia,Downy Mildew,30.3,60.8,33.1,89.1,6.94,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Tasseling,Mumbai City,Gray Leaf Spot,26.5,63,13.9,195.6,6.39,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Germination & Emergence,Akola,Downy Mildew,36.8,60.8,32.8,62.7,6.7,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Maturation & Harvest,Marathwada,Smut,31.3,67.5,32.7,104.7,6.6,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Silking,Mumbai Suburban,Downy Mildew,28,77,17,113.1,5.77,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Maturation & Harvest,Gadchiroli,Healthy,32.4,57.6,28.8,81.4,7.16,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Germination & Emergence,Nandurbar,Leaf Blight,30,55.9,20.2,189.6,7.46,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Silking,Marathwada,Smut,28.9,73.3,31.7,77.4,5.95,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Grain Filling,Kolhapur,Leaf Spot,25,72.5,15.3,255.1,6.37,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Vegetative Growth,Chandrapur,Rust,29,59.1,39.2,104.5,6.08,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Germination & Emergence,Mumbai City,Healthy,30.7,70,10.9,99.7,5.26,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Vegetative Growth,Osmanabad,Gray Leaf Spot,31.7,58.5,35.6,71.5,6.45,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Grain Filling,Marathwada,Smut,33.6,59.2,21.9,66.7,7.3,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Germination & Emergence,Jalna,Gray Leaf Spot,32,62.9,30.1,117.1,6.97,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Maturation & Harvest,Akola,Smut,34.1,58,32,96.9,7.5,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Maturation & Harvest,Gondia,Gray Leaf Spot,28.3,64.6,13,106.8,5.28,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Tasseling,Wardha,Leaf Spot,32.5,61.1,10.2,80.9,6.2,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Vegetative Growth,Ahmednagar,Healthy,33.7,75.2,25.6,196.7,7.48,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Germination & Emergence,Yavatmal,Leaf Spot,35.6,57.7,16.9,66.4,6.49,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Vegetative Growth,Sindhudurg,Gray Leaf Spot,30.1,91.6,24.3,195.4,6.57,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Seedling Stage,Ahmednagar,Leaf Spot,29.8,60.3,19.4,147.4,7.25,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Silking,Mumbai City,Leaf Blight,30.7,82.8,32.7,103.4,5.23,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Silking,Chandrapur,Smut,32.6,77.5,33.1,125.6,7.06,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Germination & Emergence,Thane,Leaf Spot,27.1,93,19.7,214.9,5.66,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Grain Filling,Latur,Downy Mildew,30.8,66.8,26.9,65.2,6.82,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Silking,Sindhudurg,Healthy,29.8,76.7,28.5,268.1,7.17,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Grain Filling,Parbhani,Leaf Blight,32.1,56.5,23.9,75.8,6.69,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Seedling Stage,Latur,Smut,28.9,63.7,18.8,81.3,6.67,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Germination & Emergence,Sindhudurg,Rust,27.7,76.5,20.9,274.1,6.19,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Vegetative Growth,Hingoli,Leaf Spot,28.3,54.8,38.4,82.4,6.2,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Tasseling,Dhule,Healthy,30.3,81.6,10.5,177.3,7.31,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Vegetative Growth,Beed,Leaf Blight,31.1,62.3,35.9,117.1,7.31,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Seedling Stage,Latur,Rust,35.8,73.4,15.3,89.8,5.28,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Seedling Stage,Solapur,Smut,32.5,84.7,36.7,138.1,5.14,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Seedling Stage,Nanded,Downy Mildew,33.6,57.2,19.5,71.6,5.87,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Tasseling,Buldhana,Gray Leaf Spot,29.1,78.4,28.9,105.8,6.92,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Silking,Nanded,Downy Mildew,28.6,62,38.4,126.4,7.03,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Maturation & Harvest,Nanded,Gray Leaf Spot,34.2,67.1,10.2,123.9,5.53,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Grain Filling,Ratnagiri,Gray Leaf Spot,26.2,91.7,22.3,152.5,7.34,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Seedling Stage,Kolhapur,Rust,26.8,76.7,14.9,212.7,5.09,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Seedling Stage,Aurangabad,Gray Leaf Spot,29.8,59.7,36.3,110.7,7.19,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Germination & Emergence,Buldhana,Smut,30.5,67.2,24.9,123,5.99,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Grain Filling,Raigad,Downy Mildew,28.4,87,39.2,262.8,5.56,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Germination & Emergence,Wardha,Downy Mildew,30.9,56.1,27,61.5,7.5,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Seedling Stage,Beed,Healthy,31.4,55.2,36.7,119.9,6.39,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Seedling Stage,Marathwada,Downy Mildew,34.9,59.9,37.6,113.3,6.32,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Grain Filling,Sangli,Downy Mildew,24.6,76.4,24.2,291.3,5.84,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Seedling Stage,Raigad,Smut,26,85.1,28.4,204.2,5.47,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Maturation & Harvest,Jalgaon,Rust,33.9,57.6,24,143,5.51,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Grain Filling,Mumbai Suburban,Gray Leaf Spot,31.1,66.2,22.6,188.2,5.17,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Vegetative Growth,Hingoli,Smut,31.1,59.2,34.9,67.6,5.84,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Maturation & Harvest,Chandrapur,Healthy,28.9,72.8,25.6,165.2,6.29,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Vegetative Growth,Washim,Leaf Blight,35.6,56.2,14.6,67.1,6.21,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Vegetative Growth,Ahmednagar,Leaf Spot,30.1,79.1,30.8,176.6,5.94,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Silking,Buldhana,Smut,29.5,60,32.4,89.5,5.87,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Tasseling,Satara,Gray Leaf Spot,28.8,77.1,31.1,213.6,5.73,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Germination & Emergence,Thane,Leaf Spot,31.8,75.4,24.6,223.7,6.78,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Vegetative Growth,Jalna,Downy Mildew,30.2,54.4,27.6,62,7.47,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Tasseling,Bhandara,Gray Leaf Spot,30.3,82.9,39.1,178.2,7.41,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Maturation & Harvest,Latur,Healthy,30.6,58.1,26.6,87.4,6.55,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Silking,Raigad,Rust,27,93.5,23.5,239.2,7.33,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Germination & Emergence,Palghar,Healthy,29.1,75.6,35.8,242.5,7.04,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Germination & Emergence,Chandrapur,Leaf Spot,27.6,70.8,19.9,152.3,6.51,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Grain Filling,Mumbai City,Gray Leaf Spot,33.1,60.7,36.7,80.2,6.64,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Tasseling,Jalgaon,Rust,27.1,69.4,14.2,196.1,5.39,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Silking,Chandrapur,Downy Mildew,27.3,57.9,28.6,155,6.44,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Tasseling,Yavatmal,Downy Mildew,37.5,51,18.7,94.7,7.32,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Tasseling,Amravati,Gray Leaf Spot,34.8,44.6,35.8,80.8,7.03,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Seedling Stage,Nandurbar,Gray Leaf Spot,28.9,71.8,15.2,108,5.86,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Tasseling,Bhandara,Rust,32.9,76.5,23.2,165.9,6.68,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Vegetative Growth,Dhule,Healthy,30,73.4,29,196.6,6.88,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Maturation & Harvest,Dhule,Smut,30.7,64.9,33.5,141.8,5.59,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Germination & Emergence,Wardha,Gray Leaf Spot,34.6,44.5,35.2,87.1,5.1,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Germination & Emergence,Nandurbar,Rust,31.5,56,20.8,132.4,7.17,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Tasseling,Osmanabad,Gray Leaf Spot,30,71.1,37.5,112.5,5.87,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Vegetative Growth,Gondia,Gray Leaf Spot,33.2,78,34.6,194.9,6.38,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Germination & Emergence,Mumbai Suburban,Healthy,33.4,63.7,31.4,180.8,5.15,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Germination & Emergence,Sangli,Smut,29.5,71.7,31.3,239.9,6.94,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Grain Filling,Jalgaon,Rust,29.3,74.1,31.9,149.8,5.79,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Germination & Emergence,Ahmednagar,Leaf Spot,27.8,80.7,17.3,134.1,6.16,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Seedling Stage,Pune,Gray Leaf Spot,27.5,80,38,273.7,7.44,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Seedling Stage,Pune,Downy Mildew,29,82.5,32.7,208.7,6.89,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Silking,Buldhana,Rust,32.1,55.4,31.6,97,6.04,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Silking,Jalgaon,Leaf Blight,31,68.2,27.5,104.5,6.74,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Maturation & Harvest,Nandurbar,Smut,28.3,67.2,21,104.1,5.35,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Tasseling,Chandrapur,Smut,28,72.2,13,153,5.08,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Vegetative Growth,Nashik,Leaf Spot,30.7,56.1,10.9,135.6,5.19,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Vegetative Growth,Buldhana,Rust,28.7,76.7,39.6,133.1,5.47,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Maturation & Harvest,Raigad,Smut,26.8,81.7,34.2,183.7,5.62,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Grain Filling,Nashik,Smut,31.3,63.5,12.3,99.6,5.67,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Maturation & Harvest,Gadchiroli,Leaf Spot,29.8,70.9,18.4,96.3,7.34,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Seedling Stage,Ratnagiri,Smut,30.2,84.7,11.4,207.3,7.02,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Vegetative Growth,Osmanabad,Gray Leaf Spot,34,57,25.3,62.8,5.45,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Grain Filling,Mumbai City,Downy Mildew,25,69.1,11.3,163.5,6.68,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Seedling Stage,Nagpur,Healthy,31.6,57.6,13.7,70.3,5.89,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Maturation & Harvest,Nanded,Downy Mildew,33.8,56.7,31.2,127.6,5.88,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Grain Filling,Nashik,Healthy,26.3,61,30.3,196.7,7.38,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Grain Filling,Ratnagiri,Rust,28.6,86.9,14.5,222.9,5.46,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Vegetative Growth,Gondia,Downy Mildew,30.6,56.7,15.5,196.3,6.98,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Tasseling,Solapur,Leaf Spot,32.8,64.9,10.8,149.5,6.89,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Maturation & Harvest,Palghar,Healthy,28.8,75.9,39.3,244.5,5.23,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Vegetative Growth,Yavatmal,Smut,34.9,65,22.7,55.3,6.05,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Silking,Raigad,Gray Leaf Spot,30.7,86.1,30.2,225.7,6.49,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Maturation & Harvest,Ratnagiri,Smut,31.6,76.4,12,291.5,5.41,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Grain Filling,Nanded,Downy Mildew,32.3,66.3,31,77.7,5.2,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Grain Filling,Pune,Healthy,24.4,70.7,38.5,199,7.11,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Tasseling,Marathwada,Leaf Blight,33.3,62.9,39.8,67.7,5.79,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Grain Filling,Kolhapur,Healthy,25.9,71,33.1,203.8,7.47,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Maturation & Harvest,Osmanabad,Leaf Spot,31.4,72.2,16.3,85.7,5.12,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Seedling Stage,Akola,Downy Mildew,34.8,45.5,12.5,61.4,6.01,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Tasseling,Nashik,Rust,29.8,57.5,17,117.9,5.33,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Germination & Emergence,Ratnagiri,Rust,29.9,91.4,34.8,296,7.09,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Germination & Emergence,Hingoli,Healthy,28.6,73.1,19.9,68.5,5.09,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Germination & Emergence,Gondia,Rust,33.3,76.7,15.7,107.5,6.99,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Maturation & Harvest,Thane,Healthy,30.4,83.8,14.8,175.1,5.45,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Maturation & Harvest,Ahmednagar,Downy Mildew,25.7,62.5,32.3,83.8,7.32,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Germination & Emergence,Bhandara,Gray Leaf Spot,29.1,76.4,21.8,93.8,5.58,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Seedling Stage,Chandrapur,Healthy,27.8,63,31,168.6,6.41,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Tasseling,Satara,Gray Leaf Spot,26.1,80.8,16.9,243,5.25,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Silking,Nashik,Smut,29.4,56.7,26.9,153.6,5.38,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Germination & Emergence,Solapur,Leaf Spot,29.2,83.2,14.9,97.8,7.16,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Seedling Stage,Sangli,Leaf Blight,28.3,87.7,10.1,268.4,5.26,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Tasseling,Mumbai City,Healthy,25.5,78.5,11.8,161.6,6.05,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Vegetative Growth,Buldhana,Downy Mildew,30.6,80.5,38.4,185.3,5.13,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Tasseling,Aurangabad,Smut,33.5,66.4,30.3,100.8,7.49,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Vegetative Growth,Wardha,Downy Mildew,35.8,60.1,29.1,64.4,5.23,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Grain Filling,Mumbai Suburban,Leaf Spot,29.9,76.1,13.5,196.7,5.47,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Grain Filling,Pune,Leaf Blight,25.3,79.1,23.7,251.6,6.85,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Vegetative Growth,Bhandara,Gray Leaf Spot,33.7,57.1,32.2,93.5,6.46,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Tasseling,Aurangabad,Leaf Spot,34.5,69,13.6,68.9,5.24,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Maturation & Harvest,Buldhana,Downy Mildew,31.7,79.5,21.8,130.9,5.88,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Silking,Amravati,Rust,36.2,53.7,10.1,84.2,6.08,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Seedling Stage,Gadchiroli,Leaf Blight,29.2,82,37.8,190.7,6.61,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Vegetative Growth,Marathwada,Leaf Blight,28,66.9,25.1,72,6.12,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Silking,Satara,Rust,24.5,87.1,16.2,210.8,7.42,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Silking,Jalgaon,Downy Mildew,31.9,65.3,31,139.7,5.37,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Maturation & Harvest,Nagpur,Gray Leaf Spot,30.4,59.8,32.1,85.8,6.55,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Vegetative Growth,Ratnagiri,Rust,30.5,85.9,10.1,238.8,7.03,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Silking,Osmanabad,Leaf Blight,34,57,29.5,78.7,6.39,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Maturation & Harvest,Ratnagiri,Gray Leaf Spot,29.7,80.4,23.6,181.9,5.52,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Grain Filling,Jalgaon,Leaf Spot,32.7,69.3,32.9,148.5,7.41,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Grain Filling,Palghar,Gray Leaf Spot,31.3,77.8,21.9,296.8,6.07,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Tasseling,Nashik,Leaf Blight,27.2,84.7,25.3,198.5,5.34,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Silking,Osmanabad,Leaf Blight,31.3,60.7,25.7,61.2,7.13,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Germination & Emergence,Sindhudurg,Healthy,26,90.8,39.8,191.5,5.3,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Seedling Stage,Sangli,Downy Mildew,28.9,77.3,23.7,213.5,5.74,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Tasseling,Solapur,Downy Mildew,31.1,74.3,14.9,194.5,6.64,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Vegetative Growth,Sindhudurg,Leaf Spot,31.3,75.2,10.6,182.4,6.54,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Germination & Emergence,Nandurbar,Smut,27.9,57,23.2,177.6,6.91,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Germination & Emergence,Nagpur,Rust,31.6,46.8,23.4,64.2,6.68,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Vegetative Growth,Thane,Healthy,27.9,90,39.4,210,6.36,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Tasseling,Jalgaon,Leaf Spot,25.6,62.8,12.7,120.7,6.95,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Maturation & Harvest,Mumbai Suburban,Smut,27,59.3,10.8,102.3,5.14,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Tasseling,Jalgaon,Smut,31.4,65.1,38,126.8,7.47,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Vegetative Growth,Palghar,Downy Mildew,31.2,88.2,14.4,273.8,6.87,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Maturation & Harvest,Yavatmal,Rust,36.6,42.9,35.3,68.5,6.1,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Germination & Emergence,Mumbai City,Healthy,28.8,55.9,37.7,175.1,5.49,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Maturation & Harvest,Pune,Leaf Blight,25.5,84.8,25,229,5.57,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Tasseling,Dhule,Leaf Blight,32.5,83.7,24.3,185.6,6.08,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Seedling Stage,Nanded,Downy Mildew,28.7,66.3,18.7,113.8,5.75,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Maturation & Harvest,Raigad,Gray Leaf Spot,31.3,81.4,22.1,272.3,5.34,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Maturation & Harvest,Sindhudurg,Leaf Spot,29.5,82.7,20.1,255.1,7.3,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Vegetative Growth,Bhandara,Gray Leaf Spot,31.6,79.5,23.1,166.9,6.2,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Silking,Aurangabad,Smut,28.6,51.9,36.1,113.5,6.03,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Vegetative Growth,Ahmednagar,Leaf Blight,26.3,58.5,34.4,138.9,5.46,Fungal infection due to high humidity,Use neem oil spray weekly,Apply Mancozeb fungicide
+Tasseling,Kolhapur,Smut,23.4,84.1,36.7,287.9,5.5,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Germination & Emergence,Sindhudurg,Leaf Spot,27.4,78.3,38.3,265.4,5.17,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Germination & Emergence,Sindhudurg,Gray Leaf Spot,31.3,89.5,12.9,170.7,7.33,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Tasseling,Hingoli,Healthy,32.2,53.9,32.5,126.9,6.1,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Maturation & Harvest,Akola,Rust,36.5,43.9,31.8,69.8,7.31,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Vegetative Growth,Buldhana,Leaf Spot,31.7,61,17,182.7,5.32,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Seedling Stage,Nanded,Smut,31.8,67,28.9,106.6,5.93,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Silking,Dhule,Healthy,28.4,58.1,12.7,102.2,6.56,Optimal growing conditions and good management,Maintain balanced fertilization and irrigation,No treatment required
+Seedling Stage,Marathwada,Downy Mildew,32.8,51.4,13,70.8,6.99,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Vegetative Growth,Kolhapur,Smut,24.7,79.8,32,260.7,7.19,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Seedling Stage,Dhule,Gray Leaf Spot,30.7,77.4,18.2,130.3,6.09,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Seedling Stage,Mumbai City,Gray Leaf Spot,25.7,82.1,21.5,87,6.55,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Tasseling,Yavatmal,Rust,35,56.3,15.7,80.9,5.89,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Maturation & Harvest,Dhule,Rust,28.2,66.9,28.2,172.7,6.65,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Tasseling,Ratnagiri,Downy Mildew,30.3,83.3,30.5,205.8,5.25,Moist soil and cool nights,Ensure proper field drainage,Spray Metalaxyl-based fungicide
+Grain Filling,Mumbai City,Rust,32,65,22.2,98.5,7.26,Fungal spores spread by wind,Use resistant hybrid varieties,Apply Propiconazole fungicide
+Vegetative Growth,Chandrapur,Leaf Spot,30.8,79.9,22.8,122.4,5.11,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Silking,Sindhudurg,Gray Leaf Spot,28.3,85.7,39.5,239,6.71,High leaf wetness and poor air circulation,Use bio-control Trichoderma,Spray Azoxystrobin fungicide
+Tasseling,Yavatmal,Leaf Spot,30.7,61.2,23.1,69.8,5.62,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Tasseling,Nagpur,Smut,37.6,57.6,19.9,61.8,5.45,Soil-borne fungal pathogen,Remove infected ears early,Apply Carbendazim treatment
+Seedling Stage,Aurangabad,Leaf Spot,29.1,70.1,34.7,102,5.82,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride
+Grain Filling,Ahmednagar,Leaf Spot,27.5,60.9,34.1,97,7.37,Bacterial infection from contaminated soil,Rotate crops and maintain spacing,Apply Copper oxychloride

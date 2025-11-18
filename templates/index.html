@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Disease Predictor</title>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container { 
+            max-width: 800px; 
+            margin: 0 auto; 
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .header p {
+            color: #666;
+            font-size: 16px;
+        }
+        .form-group { 
+            margin-bottom: 20px; 
+        }
+        label { 
+            display: block; 
+            margin-bottom: 8px; 
+            font-weight: 600;
+            color: #333;
+        }
+        input, select { 
+            width: 100%; 
+            padding: 12px; 
+            margin-bottom: 10px; 
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        input:focus, select:focus {
+            border-color: #667eea;
+            outline: none;
+        }
+        button { 
+            padding: 15px 30px; 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white; 
+            border: none; 
+            border-radius: 8px;
+            cursor: pointer; 
+            font-size: 16px;
+            font-weight: 600;
+            width: 100%;
+            transition: transform 0.2s;
+        }
+        button:hover {
+            transform: translateY(-2px);
+        }
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+        .result { 
+            margin-top: 25px; 
+            padding: 25px; 
+            background: #f8f9fa; 
+            border-radius: 10px;
+            border-left: 5px solid #667eea;
+        }
+        .disease-item {
+            padding: 12px;
+            margin: 8px 0;
+            background: white;
+            border-radius: 6px;
+            border-left: 4px solid #28a745;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            color: #667eea;
+            font-size: 16px;
+            margin: 20px 0;
+        }
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 10px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 5px;
+        }
+        .tab {
+            flex: 1;
+            padding: 12px;
+            text-align: center;
+            cursor: pointer;
+            border-radius: 6px;
+            transition: background 0.3s;
+        }
+        .tab.active {
+            background: #667eea;
+            color: white;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🌾 Crop Disease Predictor</h1>
+            <p>Select crop type and stage to predict potential diseases</p>
+        </div>
+
+        <div class="tabs">
+            <div class="tab active" onclick="switchTab('maize')">🌽 Maize</div>
+            <div class="tab" onclick="switchTab('wheat')">🌾 Wheat</div>
+        </div>
+
+        <!-- Maize Tab -->
+        <div id="maize-tab" class="tab-content active">
+            <div class="form-group">
+                <label for="maizeCropStage">Maize Crop Stage:</label>
+                <select id="maizeCropStage">
+                    <option value="">Select Crop Stage</option>
+                </select>
+            </div>
+            
+            <button onclick="predictDiseases('maize')">Predict Maize Diseases</button>
+        </div>
+
+        <!-- Wheat Tab -->
+        <div id="wheat-tab" class="tab-content">
+            <div class="form-group">
+                <label for="wheatCropStage">Wheat Crop Stage:</label>
+                <select id="wheatCropStage">
+                    <option value="">Select Crop Stage</option>
+                </select>
+            </div>
+            
+            <button onclick="predictDiseases('wheat')">Predict Wheat Diseases</button>
+        </div>
+        
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            Predicting diseases...
+        </div>
+        
+        <div id="result" class="result" style="display: none;">
+            <h3 style="margin-top: 0; color: #333;">Predicted Diseases:</h3>
+            <div id="diseaseList"></div>
+        </div>
+    </div>
+
+    <script>
+        let currentCrop = 'maize';
+
+        // Load available crop stages when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            loadCropStages('maize');
+            loadCropStages('wheat');
+        });
+
+        function switchTab(cropType) {
+            currentCrop = cropType;
+            
+            // Update tabs
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            
+            event.target.classList.add('active');
+            document.getElementById(cropType + '-tab').classList.add('active');
+        }
+
+        function loadCropStages(cropType) {
+            const selectId = cropType + 'CropStage';
+            
+            fetch(`/crop_stages?crop_type=${cropType}`)
+                .then(response => response.json())
+                .then(data => {
+                    const select = document.getElementById(selectId);
+                    select.innerHTML = '<option value="">Select Crop Stage</option>';
+                    
+                    if (data.crop_stages && data.crop_stages.length > 0) {
+                        data.crop_stages.forEach(stage => {
+                            const option = document.createElement('option');
+                            option.value = stage;
+                            option.textContent = stage;
+                            select.appendChild(option);
+                        });
+                    } else {
+                        const option = document.createElement('option');
+                        option.value = '';
+                        option.textContent = 'No stages available';
+                        select.appendChild(option);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error loading crop stages:', error);
+                    const select = document.getElementById(selectId);
+                    select.innerHTML = '<option value="">Error loading stages</option>';
+                });
+        }
+
+        function predictDiseases(cropType) {
+            const cropStage = document.getElementById(cropType + 'CropStage').value;
+            const loadingElement = document.getElementById('loading');
+            const resultElement = document.getElementById('result');
+            
+            if (!cropStage) {
+                alert('Please select a crop stage');
+                return;
+            }
+
+            // Show loading
+            loadingElement.style.display = 'block';
+            resultElement.style.display = 'none';
+
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    crop_type: cropType,
+                    crop_stage: cropStage
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                loadingElement.style.display = 'none';
+                
+                if (data.status === 'success') {
+                    const diseaseList = document.getElementById('diseaseList');
+                    diseaseList.innerHTML = '';
+                    
+                    if (data.predicted_diseases && data.predicted_diseases.length > 0) {
+                        data.predicted_diseases.forEach(disease => {
+                            const diseaseDiv = document.createElement('div');
+                            diseaseDiv.className = 'disease-item';
+                            diseaseDiv.textContent = disease;
+                            diseaseList.appendChild(diseaseDiv);
+                        });
+                    } else {
+                        diseaseList.innerHTML = '<div class="disease-item">No diseases predicted for this stage</div>';
+                    }
+                    
+                    resultElement.style.display = 'block';
+                } else {
+                    alert('Error: ' + (data.error || 'Unknown error occurred'));
+                }
+            })
+            .catch(error => {
+                loadingElement.style.display = 'none';
+                console.error('Error:', error);
+                alert('An error occurred while predicting diseases. Please try again.');
+            });
+        }
+    </script>
+</body>
+</html>

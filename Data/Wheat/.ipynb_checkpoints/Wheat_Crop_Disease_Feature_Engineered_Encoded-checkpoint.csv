@@ -1,0 +1,141 @@
+Crop Stage,Stage_Code,Crop Disease,Temp (°C),Humidity (%),Soil Moisture (%),Rainfall (mm),Soil pH,Temp_Humidity_Interaction,Rainfall_SoilMoisture_Ratio,Is_High_Humidity,Is_High_Temp,Is_Acidic_Soil,Is_Alkaline_Soil,Disease_Code
+Pre-Sowing,9,Loose Smut,33.7,74,54,6,6.9,2493.8,0.109090909090909,0,1,0,0,9
+Pre-Sowing,9,Common Bunt,26.3,85,52,18,7.2,2235.5,0.3396226415094339,1,0,0,0,2
+Pre-Sowing,9,Karnal Bunt,30.5,88,68,23,7.3,2684.0,0.3333333333333333,1,0,0,0,6
+Pre-Sowing,9,Loose Smut,29.1,73,41,12,6.7,2124.3,0.2857142857142857,0,0,0,0,9
+Pre-Sowing,9,Common Bunt,32.6,80,40,10,7.0,2608.0,0.2439024390243902,0,1,0,0,2
+Pre-Sowing,9,Karnal Bunt,25.1,87,40,25,7.3,2183.7000000000003,0.6097560975609756,1,0,0,0,6
+Pre-Sowing,9,Loose Smut,22.0,85,45,5,7.5,1870.0,0.108695652173913,1,0,0,0,9
+Pre-Sowing,9,Common Bunt,29.8,62,56,1,7.3,1847.6,0.0175438596491228,0,0,0,0,2
+Pre-Sowing,9,Karnal Bunt,32.1,60,64,15,7.3,1926.0,0.2307692307692307,0,1,0,0,6
+Pre-Sowing,9,Loose Smut,28.5,66,68,23,7.3,1881.0,0.3333333333333333,0,0,0,0,9
+Pre-Sowing,9,Common Bunt,23.7,81,56,7,6.7,1919.7,0.1228070175438596,1,0,0,0,2
+Pre-Sowing,9,Karnal Bunt,30.6,60,44,25,6.5,1836.0,0.5555555555555556,0,0,0,0,6
+Pre-Sowing,9,Loose Smut,28.3,65,51,6,7.2,1839.5,0.1153846153846153,0,0,0,0,9
+Pre-Sowing,9,Common Bunt,27.7,68,44,12,6.6,1883.6,0.2666666666666666,0,0,0,0,2
+Pre-Sowing,9,Karnal Bunt,26.9,89,54,2,7.1,2394.1,0.0363636363636363,1,0,0,0,6
+Field Preparation,2,Root Rot (Fusarium),33.7,58,47,2,7.0,1954.6,0.0416666666666666,0,1,0,0,10
+Field Preparation,2,Soilborne Pathogens,30.3,85,45,1,7.3,2575.5,0.0217391304347826,1,0,0,0,14
+Field Preparation,2,Root Rot (Fusarium),24.9,59,51,6,6.7,1469.1,0.1153846153846153,0,0,0,0,10
+Field Preparation,2,Soilborne Pathogens,27.0,55,70,6,7.4,1485.0,0.0845070422535211,0,0,0,0,14
+Field Preparation,2,Root Rot (Fusarium),21.0,90,66,25,6.3,1890.0,0.373134328358209,1,0,0,0,10
+Field Preparation,2,Soilborne Pathogens,21.3,58,59,3,6.9,1235.4,0.05,0,0,0,0,14
+Field Preparation,2,Root Rot (Fusarium),21.8,67,53,1,7.0,1460.6,0.0185185185185185,0,0,0,0,10
+Field Preparation,2,Soilborne Pathogens,33.7,71,46,16,6.6,2392.7000000000003,0.3404255319148936,0,1,0,0,14
+Field Preparation,2,Root Rot (Fusarium),20.5,60,62,18,6.5,1230.0,0.2857142857142857,0,0,0,0,10
+Field Preparation,2,Soilborne Pathogens,27.5,55,51,8,7.0,1512.5,0.1538461538461538,0,0,0,0,14
+Seed Treatment & Sowing,10,Seed Rot,28.6,79,44,5,6.9,2259.4,0.1111111111111111,0,0,0,0,11
+Seed Treatment & Sowing,10,Black Point,26.4,55,65,3,6.5,1452.0,0.0454545454545454,0,0,0,0,1
+Seed Treatment & Sowing,10,Loose Smut,29.8,55,48,7,7.4,1639.0,0.1428571428571428,0,0,0,0,9
+Seed Treatment & Sowing,10,Seed Rot,25.2,56,62,8,6.5,1411.2,0.1269841269841269,0,0,0,0,11
+Seed Treatment & Sowing,10,Black Point,23.0,77,65,2,6.4,1771.0,0.0303030303030303,0,0,0,0,1
+Seed Treatment & Sowing,10,Loose Smut,26.5,82,63,17,7.0,2173.0,0.265625,1,0,0,0,9
+Seed Treatment & Sowing,10,Seed Rot,21.0,65,65,21,6.9,1365.0,0.3181818181818182,0,0,0,0,11
+Seed Treatment & Sowing,10,Black Point,27.3,72,56,12,6.5,1965.6,0.2105263157894736,0,0,0,0,1
+Seed Treatment & Sowing,10,Loose Smut,28.9,60,46,5,6.4,1734.0,0.1063829787234042,0,0,0,0,9
+Seed Treatment & Sowing,10,Seed Rot,28.1,77,43,15,6.5,2163.7000000000003,0.3409090909090909,0,0,0,0,11
+Seed Treatment & Sowing,10,Black Point,25.3,72,53,3,7.4,1821.6,0.0555555555555555,0,0,0,0,1
+Seed Treatment & Sowing,10,Loose Smut,26.1,81,67,5,6.9,2114.1,0.0735294117647058,1,0,0,0,9
+Seed Treatment & Sowing,10,Seed Rot,28.6,66,60,17,7.1,1887.6,0.2786885245901639,0,0,0,0,11
+Seed Treatment & Sowing,10,Black Point,32.2,64,51,15,6.7,2060.8,0.2884615384615384,0,1,0,0,1
+Seed Treatment & Sowing,10,Loose Smut,20.1,75,55,18,7.4,1507.5,0.3214285714285714,0,0,0,0,9
+Germination,3,Damping-off (Pythium),26.0,70,54,8,7.0,1820.0,0.1454545454545454,0,0,0,0,4
+Germination,3,Seedling Blight (Fusarium),23.3,57,46,4,6.7,1328.1,0.0851063829787234,0,0,0,0,12
+Germination,3,Root Rot (Fusarium),26.4,82,62,19,7.0,2164.8,0.3015873015873015,1,0,0,0,10
+Germination,3,Damping-off (Pythium),24.4,65,48,4,6.8,1586.0,0.0816326530612244,0,0,0,0,4
+Germination,3,Seedling Blight (Fusarium),28.7,85,45,13,7.4,2439.5,0.2826086956521739,1,0,0,0,12
+Germination,3,Root Rot (Fusarium),26.5,90,66,12,6.4,2385.0,0.1791044776119403,1,0,0,0,10
+Germination,3,Damping-off (Pythium),29.3,67,70,6,7.1,1963.1,0.0845070422535211,0,0,0,0,4
+Germination,3,Seedling Blight (Fusarium),21.0,75,41,19,7.3,1575.0,0.4523809523809524,0,0,0,0,12
+Germination,3,Root Rot (Fusarium),22.0,71,47,17,7.1,1562.0,0.3541666666666667,0,0,0,0,10
+Germination,3,Damping-off (Pythium),32.1,74,56,1,7.4,2375.4,0.0175438596491228,0,1,0,0,4
+Germination,3,Seedling Blight (Fusarium),28.7,69,41,1,6.9,1980.3,0.0238095238095238,0,0,0,0,12
+Germination,3,Root Rot (Fusarium),30.3,72,57,22,7.4,2181.6,0.3793103448275862,0,0,0,0,10
+Germination,3,Damping-off (Pythium),27.0,67,61,0,6.5,1809.0,0.0,0,0,0,0,4
+Germination,3,Seedling Blight (Fusarium),26.7,85,41,3,7.1,2269.5,0.0714285714285714,1,0,0,0,12
+Germination,3,Root Rot (Fusarium),30.8,70,62,24,7.5,2156.0,0.3809523809523809,0,0,0,0,10
+Emergence,1,Damping-off (Pythium),23.8,76,40,2,6.5,1808.8,0.048780487804878,0,0,0,0,4
+Emergence,1,Seedling Blight (Fusarium),33.2,72,52,25,6.7,2390.4,0.4716981132075472,0,1,0,0,12
+Emergence,1,Damping-off (Pythium),26.5,71,40,2,7.4,1881.5,0.048780487804878,0,0,0,0,4
+Emergence,1,Seedling Blight (Fusarium),25.6,78,47,18,6.9,1996.8,0.375,0,0,0,0,12
+Emergence,1,Damping-off (Pythium),20.9,71,61,11,7.3,1483.9,0.1774193548387097,0,0,0,0,4
+Emergence,1,Seedling Blight (Fusarium),26.8,64,59,9,6.3,1715.2,0.15,0,0,0,0,12
+Emergence,1,Damping-off (Pythium),23.5,59,64,1,7.0,1386.5,0.0153846153846153,0,0,0,0,4
+Emergence,1,Seedling Blight (Fusarium),22.0,61,43,13,6.3,1342.0,0.2954545454545454,0,0,0,0,12
+Emergence,1,Damping-off (Pythium),32.6,70,41,12,7.4,2282.0,0.2857142857142857,0,1,0,0,4
+Emergence,1,Seedling Blight (Fusarium),24.2,65,56,13,7.1,1573.0,0.2280701754385964,0,0,0,0,12
+Tillering,12,Yellow Rust,28.3,85,50,24,6.8,2405.5,0.4705882352941176,1,0,0,0,18
+Tillering,12,Barley Yellow Dwarf Virus (BYDV),31.0,83,65,25,7.0,2573.0,0.3787878787878788,1,0,0,0,0
+Tillering,12,Root Rot (Fusarium),20.1,86,53,21,7.4,1728.6,0.3888888888888889,1,0,0,0,10
+Tillering,12,Yellow Rust,30.7,69,65,4,6.4,2118.3,0.0606060606060606,0,0,0,0,18
+Tillering,12,Barley Yellow Dwarf Virus (BYDV),31.2,61,50,9,6.3,1903.2,0.1764705882352941,0,0,0,0,0
+Tillering,12,Root Rot (Fusarium),24.0,64,68,1,7.4,1536.0,0.0144927536231884,0,0,0,0,10
+Tillering,12,Yellow Rust,24.4,68,44,22,6.8,1659.1999999999998,0.4888888888888889,0,0,0,0,18
+Tillering,12,Barley Yellow Dwarf Virus (BYDV),33.2,83,53,6,7.5,2755.6000000000004,0.1111111111111111,1,1,0,0,0
+Tillering,12,Root Rot (Fusarium),23.2,72,44,18,7.1,1670.4,0.4,0,0,0,0,10
+Tillering,12,Yellow Rust,28.4,60,53,5,7.3,1704.0,0.0925925925925925,0,0,0,0,18
+Tillering,12,Barley Yellow Dwarf Virus (BYDV),27.9,58,42,7,6.5,1618.1999999999998,0.1627906976744186,0,0,0,0,0
+Tillering,12,Root Rot (Fusarium),29.1,59,59,22,7.0,1716.9,0.3666666666666666,0,0,0,0,10
+Tillering,12,Yellow Rust,21.4,89,64,12,7.4,1904.6,0.1846153846153846,1,0,0,0,18
+Tillering,12,Barley Yellow Dwarf Virus (BYDV),24.7,68,68,3,6.5,1679.6,0.0434782608695652,0,0,0,0,0
+Tillering,12,Root Rot (Fusarium),30.3,72,52,10,6.5,2181.6,0.1886792452830188,0,0,0,0,10
+Stem Elongation / Jointing,11,Crown Rot,28.4,66,57,22,6.9,1874.4,0.3793103448275862,0,0,0,0,3
+Stem Elongation / Jointing,11,Root Rot (Fusarium),21.6,67,70,2,7.3,1447.2,0.028169014084507,0,0,0,0,10
+Stem Elongation / Jointing,11,Crown Rot,29.5,88,55,14,6.7,2596.0,0.25,1,0,0,0,3
+Stem Elongation / Jointing,11,Root Rot (Fusarium),20.3,65,55,15,7.1,1319.5,0.2678571428571428,0,0,0,0,10
+Stem Elongation / Jointing,11,Crown Rot,31.4,62,41,5,6.5,1946.8,0.119047619047619,0,0,0,0,3
+Stem Elongation / Jointing,11,Root Rot (Fusarium),26.1,60,65,5,7.4,1566.0,0.0757575757575757,0,0,0,0,10
+Stem Elongation / Jointing,11,Crown Rot,23.3,89,65,11,6.8,2073.7000000000003,0.1666666666666666,1,0,0,0,3
+Stem Elongation / Jointing,11,Root Rot (Fusarium),21.4,73,42,22,7.1,1562.1999999999998,0.5116279069767442,0,0,0,0,10
+Stem Elongation / Jointing,11,Crown Rot,30.8,77,55,11,6.5,2371.6,0.1964285714285714,0,0,0,0,3
+Stem Elongation / Jointing,11,Root Rot (Fusarium),30.8,72,66,11,6.6,2217.6,0.1641791044776119,0,0,0,0,10
+Booting,0,Leaf Blight,25.1,73,58,0,7.4,1832.3,0.0,0,0,0,0,7
+Booting,0,Stripe Rust,26.4,55,47,20,7.0,1452.0,0.4166666666666667,0,0,0,0,16
+Booting,0,Leaf Blight,29.4,57,45,14,7.3,1675.8,0.3043478260869565,0,0,0,0,7
+Booting,0,Stripe Rust,20.5,86,64,23,6.6,1763.0,0.3538461538461538,1,0,0,0,16
+Booting,0,Leaf Blight,26.1,56,70,14,6.8,1461.6,0.1971830985915492,0,0,0,0,7
+Booting,0,Stripe Rust,25.6,75,51,24,6.9,1920.0,0.4615384615384615,0,0,0,0,16
+Booting,0,Leaf Blight,22.9,84,66,10,6.5,1923.6,0.1492537313432835,1,0,0,0,7
+Booting,0,Stripe Rust,27.5,78,44,7,7.2,2145.0,0.1555555555555555,0,0,0,0,16
+Booting,0,Leaf Blight,29.2,71,41,10,7.1,2073.2,0.238095238095238,0,0,0,0,7
+Booting,0,Stripe Rust,25.6,64,69,4,6.4,1638.4,0.0571428571428571,0,0,0,0,16
+Heading & Flowering,6,Fusarium Head Blight,31.1,70,70,8,6.6,2177.0,0.1126760563380281,0,0,0,0,5
+Heading & Flowering,6,Leaf Rust,22.0,60,46,6,7.2,1320.0,0.1276595744680851,0,0,0,0,8
+Heading & Flowering,6,Fusarium Head Blight,21.9,67,60,15,6.9,1467.3,0.2459016393442623,0,0,0,0,5
+Heading & Flowering,6,Leaf Rust,22.0,62,45,10,6.5,1364.0,0.217391304347826,0,0,0,0,8
+Heading & Flowering,6,Fusarium Head Blight,24.8,70,48,9,7.1,1736.0,0.1836734693877551,0,0,0,0,5
+Heading & Flowering,6,Leaf Rust,23.0,79,64,22,7.3,1817.0,0.3384615384615385,0,0,0,0,8
+Heading & Flowering,6,Fusarium Head Blight,23.6,59,49,11,6.5,1392.4,0.22,0,0,0,0,5
+Heading & Flowering,6,Leaf Rust,22.8,83,44,16,7.1,1892.4,0.3555555555555555,1,0,0,0,8
+Heading & Flowering,6,Fusarium Head Blight,22.6,89,64,12,7.0,2011.4,0.1846153846153846,1,0,0,0,5
+Heading & Flowering,6,Leaf Rust,29.3,76,40,22,7.2,2226.8,0.5365853658536586,0,0,0,0,8
+Grain Filling,4,Septoria Leaf Blotch,25.8,82,58,24,6.9,2115.6,0.4067796610169492,1,0,0,0,13
+Grain Filling,4,Leaf Rust,23.8,55,56,8,6.7,1309.0,0.1403508771929824,0,0,0,0,8
+Grain Filling,4,Septoria Leaf Blotch,33.7,60,41,4,6.4,2022.0,0.0952380952380952,0,1,0,0,13
+Grain Filling,4,Leaf Rust,27.7,79,43,0,7.3,2188.3,0.0,0,0,0,0,8
+Grain Filling,4,Septoria Leaf Blotch,29.6,85,50,9,6.9,2516.0,0.1764705882352941,1,0,0,0,13
+Grain Filling,4,Leaf Rust,30.8,55,43,24,6.5,1694.0,0.5454545454545454,0,0,0,0,8
+Grain Filling,4,Septoria Leaf Blotch,22.5,76,51,19,6.5,1710.0,0.3653846153846153,0,0,0,0,13
+Grain Filling,4,Leaf Rust,24.1,70,60,10,6.8,1687.0,0.1639344262295081,0,0,0,0,8
+Grain Filling,4,Septoria Leaf Blotch,21.3,81,42,24,7.5,1725.3,0.5581395348837209,1,0,0,0,13
+Grain Filling,4,Leaf Rust,22.5,72,57,14,7.2,1620.0,0.2413793103448276,0,0,0,0,8
+Maturity,7,Leaf Rust,23.0,78,60,22,6.8,1794.0,0.360655737704918,0,0,0,0,8
+Maturity,7,Leaf Rust,23.8,82,50,16,7.2,1951.6,0.3137254901960784,1,0,0,0,8
+Maturity,7,Leaf Rust,30.3,72,47,21,7.3,2181.6,0.4375,0,0,0,0,8
+Maturity,7,Leaf Rust,28.6,74,58,16,7.1,2116.4,0.2711864406779661,0,0,0,0,8
+Maturity,7,Leaf Rust,26.9,66,40,22,6.8,1775.4,0.5365853658536586,0,0,0,0,8
+Harvest,5,Storage Fungi (Aspergillus),26.9,71,66,3,6.4,1909.9,0.044776119402985,0,0,0,0,15
+Harvest,5,Storage Fungi (Aspergillus),28.9,56,51,24,7.0,1618.4,0.4615384615384615,0,0,0,0,15
+Harvest,5,Storage Fungi (Aspergillus),26.3,83,54,0,7.0,2182.9,0.0,1,0,0,0,15
+Harvest,5,Storage Fungi (Aspergillus),26.5,89,42,2,6.6,2358.5,0.0465116279069767,1,0,0,0,15
+Harvest,5,Storage Fungi (Aspergillus),25.3,55,42,14,6.7,1391.5,0.3255813953488372,0,0,0,0,15
+Post-Harvest,8,Weevil Infestation,20.6,89,42,3,7.0,1833.4,0.0697674418604651,1,0,0,0,17
+Post-Harvest,8,Storage Fungi (Aspergillus),32.6,61,63,16,6.5,1988.6,0.25,0,1,0,0,15
+Post-Harvest,8,Weevil Infestation,32.5,59,46,18,6.8,1917.5,0.3829787234042553,0,1,0,0,17
+Post-Harvest,8,Storage Fungi (Aspergillus),27.9,66,51,20,7.3,1841.4,0.3846153846153846,0,0,0,0,15
+Post-Harvest,8,Weevil Infestation,20.4,61,43,13,7.1,1244.4,0.2954545454545454,0,0,0,0,17
+Post-Harvest,8,Storage Fungi (Aspergillus),33.4,77,40,19,6.9,2571.8,0.4634146341463415,0,1,0,0,15
+Post-Harvest,8,Weevil Infestation,27.8,78,46,23,6.9,2168.4,0.4893617021276595,0,0,0,0,17
+Post-Harvest,8,Storage Fungi (Aspergillus),27.2,65,58,13,6.8,1768.0,0.2203389830508474,0,0,0,0,15
+Post-Harvest,8,Weevil Infestation,25.1,55,43,19,7.3,1380.5,0.4318181818181818,0,0,0,0,17
+Post-Harvest,8,Storage Fungi (Aspergillus),31.4,83,64,5,6.5,2606.2,0.0769230769230769,1,0,0,0,15

@@ -1,0 +1,141 @@
+Crop Stage,Region,Crop Disease,Temp (°C),Humidity (%),Soil Moisture (%),Rainfall (mm),Soil pH,Cause,Organic Cure,Inorganic Cure
+Pre-Sowing,Pune,Loose Smut,33.7,74,54,6,6.9,Seed-borne fungus Ustilago tritici infects embryos in seed.,Hot water seed treatment at 54°C for 10 minutes.,Tebuconazole 2% DS @ 1.25 g/kg seed.
+Pre-Sowing,Pune,Common Bunt,26.3,85,52,18,7.2,Fungal spores (Tilletia spp.) on seed coat infect seedlings.,Solarization of seeds before sowing.,Carboxin 37.5% + Thiram 37.5% WS @ 2 g/kg seed.
+Pre-Sowing,Pune,Karnal Bunt,30.5,88,68,23,7.3,Soil and seed-borne fungus Tilletia indica infects grains.,Crop rotation and clean seeds.,Propiconazole 25% EC @ 0.1% spray.
+Pre-Sowing,Nashik,Loose Smut,29.1,73,41,12,6.7,Seed-borne fungus Ustilago tritici infects embryos in seed.,Hot water seed treatment at 54°C for 10 minutes.,Tebuconazole 2% DS @ 1.25 g/kg seed.
+Pre-Sowing,Nashik,Common Bunt,32.6,80,40,10,7.0,Fungal spores (Tilletia spp.) on seed coat infect seedlings.,Solarization of seeds before sowing.,Carboxin 37.5% + Thiram 37.5% WS @ 2 g/kg seed.
+Pre-Sowing,Nashik,Karnal Bunt,25.1,87,40,25,7.3,Soil and seed-borne fungus Tilletia indica infects grains.,Crop rotation and clean seeds.,Propiconazole 25% EC @ 0.1% spray.
+Pre-Sowing,Aurangabad,Loose Smut,22.0,85,45,5,7.5,Seed-borne fungus Ustilago tritici infects embryos in seed.,Hot water seed treatment at 54°C for 10 minutes.,Tebuconazole 2% DS @ 1.25 g/kg seed.
+Pre-Sowing,Aurangabad,Common Bunt,29.8,62,56,1,7.3,Fungal spores (Tilletia spp.) on seed coat infect seedlings.,Solarization of seeds before sowing.,Carboxin 37.5% + Thiram 37.5% WS @ 2 g/kg seed.
+Pre-Sowing,Aurangabad,Karnal Bunt,32.1,60,64,15,7.3,Soil and seed-borne fungus Tilletia indica infects grains.,Crop rotation and clean seeds.,Propiconazole 25% EC @ 0.1% spray.
+Pre-Sowing,Solapur,Loose Smut,28.5,66,68,23,7.3,Seed-borne fungus Ustilago tritici infects embryos in seed.,Hot water seed treatment at 54°C for 10 minutes.,Tebuconazole 2% DS @ 1.25 g/kg seed.
+Pre-Sowing,Solapur,Common Bunt,23.7,81,56,7,6.7,Fungal spores (Tilletia spp.) on seed coat infect seedlings.,Solarization of seeds before sowing.,Carboxin 37.5% + Thiram 37.5% WS @ 2 g/kg seed.
+Pre-Sowing,Solapur,Karnal Bunt,30.6,60,44,25,6.5,Soil and seed-borne fungus Tilletia indica infects grains.,Crop rotation and clean seeds.,Propiconazole 25% EC @ 0.1% spray.
+Pre-Sowing,Nagpur,Loose Smut,28.3,65,51,6,7.2,Seed-borne fungus Ustilago tritici infects embryos in seed.,Hot water seed treatment at 54°C for 10 minutes.,Tebuconazole 2% DS @ 1.25 g/kg seed.
+Pre-Sowing,Nagpur,Common Bunt,27.7,68,44,12,6.6,Fungal spores (Tilletia spp.) on seed coat infect seedlings.,Solarization of seeds before sowing.,Carboxin 37.5% + Thiram 37.5% WS @ 2 g/kg seed.
+Pre-Sowing,Nagpur,Karnal Bunt,26.9,89,54,2,7.1,Soil and seed-borne fungus Tilletia indica infects grains.,Crop rotation and clean seeds.,Propiconazole 25% EC @ 0.1% spray.
+Field Preparation,Pune,Root Rot (Fusarium),33.7,58,47,2,7.0,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Field Preparation,Pune,Soilborne Pathogens,30.3,85,45,1,7.3,Build-up of multiple fungal pathogens in soil.,Crop rotation with legumes.,Soil drenching with Mancozeb 0.2%.
+Field Preparation,Nashik,Root Rot (Fusarium),24.9,59,51,6,6.7,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Field Preparation,Nashik,Soilborne Pathogens,27.0,55,70,6,7.4,Build-up of multiple fungal pathogens in soil.,Crop rotation with legumes.,Soil drenching with Mancozeb 0.2%.
+Field Preparation,Aurangabad,Root Rot (Fusarium),21.0,90,66,25,6.3,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Field Preparation,Aurangabad,Soilborne Pathogens,21.3,58,59,3,6.9,Build-up of multiple fungal pathogens in soil.,Crop rotation with legumes.,Soil drenching with Mancozeb 0.2%.
+Field Preparation,Solapur,Root Rot (Fusarium),21.8,67,53,1,7.0,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Field Preparation,Solapur,Soilborne Pathogens,33.7,71,46,16,6.6,Build-up of multiple fungal pathogens in soil.,Crop rotation with legumes.,Soil drenching with Mancozeb 0.2%.
+Field Preparation,Nagpur,Root Rot (Fusarium),20.5,60,62,18,6.5,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Field Preparation,Nagpur,Soilborne Pathogens,27.5,55,51,8,7.0,Build-up of multiple fungal pathogens in soil.,Crop rotation with legumes.,Soil drenching with Mancozeb 0.2%.
+Seed Treatment & Sowing,Pune,Seed Rot,28.6,79,44,5,6.9,Seed decay by Alternaria and Fusarium fungi.,Use biocontrol agent Trichoderma harzianum on seed.,Thiram 75% WP @ 3 g/kg seed.
+Seed Treatment & Sowing,Pune,Black Point,26.4,55,65,3,6.5,Alternaria spp. infects seeds during wet conditions.,Dry seeds properly before storage.,Mancozeb 75% WP @ 2.5 g/kg seed.
+Seed Treatment & Sowing,Pune,Loose Smut,29.8,55,48,7,7.4,Seed-borne fungus Ustilago tritici infects embryos in seed.,Hot water seed treatment at 54°C for 10 minutes.,Tebuconazole 2% DS @ 1.25 g/kg seed.
+Seed Treatment & Sowing,Nashik,Seed Rot,25.2,56,62,8,6.5,Seed decay by Alternaria and Fusarium fungi.,Use biocontrol agent Trichoderma harzianum on seed.,Thiram 75% WP @ 3 g/kg seed.
+Seed Treatment & Sowing,Nashik,Black Point,23.0,77,65,2,6.4,Alternaria spp. infects seeds during wet conditions.,Dry seeds properly before storage.,Mancozeb 75% WP @ 2.5 g/kg seed.
+Seed Treatment & Sowing,Nashik,Loose Smut,26.5,82,63,17,7.0,Seed-borne fungus Ustilago tritici infects embryos in seed.,Hot water seed treatment at 54°C for 10 minutes.,Tebuconazole 2% DS @ 1.25 g/kg seed.
+Seed Treatment & Sowing,Aurangabad,Seed Rot,21.0,65,65,21,6.9,Seed decay by Alternaria and Fusarium fungi.,Use biocontrol agent Trichoderma harzianum on seed.,Thiram 75% WP @ 3 g/kg seed.
+Seed Treatment & Sowing,Aurangabad,Black Point,27.3,72,56,12,6.5,Alternaria spp. infects seeds during wet conditions.,Dry seeds properly before storage.,Mancozeb 75% WP @ 2.5 g/kg seed.
+Seed Treatment & Sowing,Aurangabad,Loose Smut,28.9,60,46,5,6.4,Seed-borne fungus Ustilago tritici infects embryos in seed.,Hot water seed treatment at 54°C for 10 minutes.,Tebuconazole 2% DS @ 1.25 g/kg seed.
+Seed Treatment & Sowing,Solapur,Seed Rot,28.1,77,43,15,6.5,Seed decay by Alternaria and Fusarium fungi.,Use biocontrol agent Trichoderma harzianum on seed.,Thiram 75% WP @ 3 g/kg seed.
+Seed Treatment & Sowing,Solapur,Black Point,25.3,72,53,3,7.4,Alternaria spp. infects seeds during wet conditions.,Dry seeds properly before storage.,Mancozeb 75% WP @ 2.5 g/kg seed.
+Seed Treatment & Sowing,Solapur,Loose Smut,26.1,81,67,5,6.9,Seed-borne fungus Ustilago tritici infects embryos in seed.,Hot water seed treatment at 54°C for 10 minutes.,Tebuconazole 2% DS @ 1.25 g/kg seed.
+Seed Treatment & Sowing,Nagpur,Seed Rot,28.6,66,60,17,7.1,Seed decay by Alternaria and Fusarium fungi.,Use biocontrol agent Trichoderma harzianum on seed.,Thiram 75% WP @ 3 g/kg seed.
+Seed Treatment & Sowing,Nagpur,Black Point,32.2,64,51,15,6.7,Alternaria spp. infects seeds during wet conditions.,Dry seeds properly before storage.,Mancozeb 75% WP @ 2.5 g/kg seed.
+Seed Treatment & Sowing,Nagpur,Loose Smut,20.1,75,55,18,7.4,Seed-borne fungus Ustilago tritici infects embryos in seed.,Hot water seed treatment at 54°C for 10 minutes.,Tebuconazole 2% DS @ 1.25 g/kg seed.
+Germination,Pune,Damping-off (Pythium),26.0,70,54,8,7.0,Pythium fungus in wet soils kills seedlings.,Use Trichoderma seed coating.,Metalaxyl + Mancozeb 72% WP @ 2 g/kg seed.
+Germination,Pune,Seedling Blight (Fusarium),23.3,57,46,4,6.7,Fusarium fungus infects young seedlings under humid soil.,Good drainage and crop rotation.,Carbendazim 50% WP @ 2 g/kg seed.
+Germination,Pune,Root Rot (Fusarium),26.4,82,62,19,7.0,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Germination,Nashik,Damping-off (Pythium),24.4,65,48,4,6.8,Pythium fungus in wet soils kills seedlings.,Use Trichoderma seed coating.,Metalaxyl + Mancozeb 72% WP @ 2 g/kg seed.
+Germination,Nashik,Seedling Blight (Fusarium),28.7,85,45,13,7.4,Fusarium fungus infects young seedlings under humid soil.,Good drainage and crop rotation.,Carbendazim 50% WP @ 2 g/kg seed.
+Germination,Nashik,Root Rot (Fusarium),26.5,90,66,12,6.4,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Germination,Aurangabad,Damping-off (Pythium),29.3,67,70,6,7.1,Pythium fungus in wet soils kills seedlings.,Use Trichoderma seed coating.,Metalaxyl + Mancozeb 72% WP @ 2 g/kg seed.
+Germination,Aurangabad,Seedling Blight (Fusarium),21.0,75,41,19,7.3,Fusarium fungus infects young seedlings under humid soil.,Good drainage and crop rotation.,Carbendazim 50% WP @ 2 g/kg seed.
+Germination,Aurangabad,Root Rot (Fusarium),22.0,71,47,17,7.1,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Germination,Solapur,Damping-off (Pythium),32.1,74,56,1,7.4,Pythium fungus in wet soils kills seedlings.,Use Trichoderma seed coating.,Metalaxyl + Mancozeb 72% WP @ 2 g/kg seed.
+Germination,Solapur,Seedling Blight (Fusarium),28.7,69,41,1,6.9,Fusarium fungus infects young seedlings under humid soil.,Good drainage and crop rotation.,Carbendazim 50% WP @ 2 g/kg seed.
+Germination,Solapur,Root Rot (Fusarium),30.3,72,57,22,7.4,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Germination,Nagpur,Damping-off (Pythium),27.0,67,61,0,6.5,Pythium fungus in wet soils kills seedlings.,Use Trichoderma seed coating.,Metalaxyl + Mancozeb 72% WP @ 2 g/kg seed.
+Germination,Nagpur,Seedling Blight (Fusarium),26.7,85,41,3,7.1,Fusarium fungus infects young seedlings under humid soil.,Good drainage and crop rotation.,Carbendazim 50% WP @ 2 g/kg seed.
+Germination,Nagpur,Root Rot (Fusarium),30.8,70,62,24,7.5,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Emergence,Pune,Damping-off (Pythium),23.8,76,40,2,6.5,Pythium fungus in wet soils kills seedlings.,Use Trichoderma seed coating.,Metalaxyl + Mancozeb 72% WP @ 2 g/kg seed.
+Emergence,Pune,Seedling Blight (Fusarium),33.2,72,52,25,6.7,Fusarium fungus infects young seedlings under humid soil.,Good drainage and crop rotation.,Carbendazim 50% WP @ 2 g/kg seed.
+Emergence,Nashik,Damping-off (Pythium),26.5,71,40,2,7.4,Pythium fungus in wet soils kills seedlings.,Use Trichoderma seed coating.,Metalaxyl + Mancozeb 72% WP @ 2 g/kg seed.
+Emergence,Nashik,Seedling Blight (Fusarium),25.6,78,47,18,6.9,Fusarium fungus infects young seedlings under humid soil.,Good drainage and crop rotation.,Carbendazim 50% WP @ 2 g/kg seed.
+Emergence,Aurangabad,Damping-off (Pythium),20.9,71,61,11,7.3,Pythium fungus in wet soils kills seedlings.,Use Trichoderma seed coating.,Metalaxyl + Mancozeb 72% WP @ 2 g/kg seed.
+Emergence,Aurangabad,Seedling Blight (Fusarium),26.8,64,59,9,6.3,Fusarium fungus infects young seedlings under humid soil.,Good drainage and crop rotation.,Carbendazim 50% WP @ 2 g/kg seed.
+Emergence,Solapur,Damping-off (Pythium),23.5,59,64,1,7.0,Pythium fungus in wet soils kills seedlings.,Use Trichoderma seed coating.,Metalaxyl + Mancozeb 72% WP @ 2 g/kg seed.
+Emergence,Solapur,Seedling Blight (Fusarium),22.0,61,43,13,6.3,Fusarium fungus infects young seedlings under humid soil.,Good drainage and crop rotation.,Carbendazim 50% WP @ 2 g/kg seed.
+Emergence,Nagpur,Damping-off (Pythium),32.6,70,41,12,7.4,Pythium fungus in wet soils kills seedlings.,Use Trichoderma seed coating.,Metalaxyl + Mancozeb 72% WP @ 2 g/kg seed.
+Emergence,Nagpur,Seedling Blight (Fusarium),24.2,65,56,13,7.1,Fusarium fungus infects young seedlings under humid soil.,Good drainage and crop rotation.,Carbendazim 50% WP @ 2 g/kg seed.
+Tillering,Pune,Yellow Rust,28.3,85,50,24,6.8,Puccinia striiformis fungus spreads via windborne spores.,Resistant varieties and balanced fertilization.,Propiconazole 25% EC @ 0.1% spray.
+Tillering,Pune,Barley Yellow Dwarf Virus (BYDV),31.0,83,65,25,7.0,Aphid-transmitted virus infects leaves.,Use neem oil spray to repel aphids.,Imidacloprid 17.8% SL @ 0.5 mL/L water.
+Tillering,Pune,Root Rot (Fusarium),20.1,86,53,21,7.4,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Tillering,Nashik,Yellow Rust,30.7,69,65,4,6.4,Puccinia striiformis fungus spreads via windborne spores.,Resistant varieties and balanced fertilization.,Propiconazole 25% EC @ 0.1% spray.
+Tillering,Nashik,Barley Yellow Dwarf Virus (BYDV),31.2,61,50,9,6.3,Aphid-transmitted virus infects leaves.,Use neem oil spray to repel aphids.,Imidacloprid 17.8% SL @ 0.5 mL/L water.
+Tillering,Nashik,Root Rot (Fusarium),24.0,64,68,1,7.4,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Tillering,Aurangabad,Yellow Rust,24.4,68,44,22,6.8,Puccinia striiformis fungus spreads via windborne spores.,Resistant varieties and balanced fertilization.,Propiconazole 25% EC @ 0.1% spray.
+Tillering,Aurangabad,Barley Yellow Dwarf Virus (BYDV),33.2,83,53,6,7.5,Aphid-transmitted virus infects leaves.,Use neem oil spray to repel aphids.,Imidacloprid 17.8% SL @ 0.5 mL/L water.
+Tillering,Aurangabad,Root Rot (Fusarium),23.2,72,44,18,7.1,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Tillering,Solapur,Yellow Rust,28.4,60,53,5,7.3,Puccinia striiformis fungus spreads via windborne spores.,Resistant varieties and balanced fertilization.,Propiconazole 25% EC @ 0.1% spray.
+Tillering,Solapur,Barley Yellow Dwarf Virus (BYDV),27.9,58,42,7,6.5,Aphid-transmitted virus infects leaves.,Use neem oil spray to repel aphids.,Imidacloprid 17.8% SL @ 0.5 mL/L water.
+Tillering,Solapur,Root Rot (Fusarium),29.1,59,59,22,7.0,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Tillering,Nagpur,Yellow Rust,21.4,89,64,12,7.4,Puccinia striiformis fungus spreads via windborne spores.,Resistant varieties and balanced fertilization.,Propiconazole 25% EC @ 0.1% spray.
+Tillering,Nagpur,Barley Yellow Dwarf Virus (BYDV),24.7,68,68,3,6.5,Aphid-transmitted virus infects leaves.,Use neem oil spray to repel aphids.,Imidacloprid 17.8% SL @ 0.5 mL/L water.
+Tillering,Nagpur,Root Rot (Fusarium),30.3,72,52,10,6.5,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Stem Elongation / Jointing,Pune,Crown Rot,28.4,66,57,22,6.9,Fusarium pseudograminearum infects crown tissues.,Residue burning avoided; crop rotation applied.,Seed treatment with Tebuconazole.
+Stem Elongation / Jointing,Pune,Root Rot (Fusarium),21.6,67,70,2,7.3,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Stem Elongation / Jointing,Nashik,Crown Rot,29.5,88,55,14,6.7,Fusarium pseudograminearum infects crown tissues.,Residue burning avoided; crop rotation applied.,Seed treatment with Tebuconazole.
+Stem Elongation / Jointing,Nashik,Root Rot (Fusarium),20.3,65,55,15,7.1,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Stem Elongation / Jointing,Aurangabad,Crown Rot,31.4,62,41,5,6.5,Fusarium pseudograminearum infects crown tissues.,Residue burning avoided; crop rotation applied.,Seed treatment with Tebuconazole.
+Stem Elongation / Jointing,Aurangabad,Root Rot (Fusarium),26.1,60,65,5,7.4,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Stem Elongation / Jointing,Solapur,Crown Rot,23.3,89,65,11,6.8,Fusarium pseudograminearum infects crown tissues.,Residue burning avoided; crop rotation applied.,Seed treatment with Tebuconazole.
+Stem Elongation / Jointing,Solapur,Root Rot (Fusarium),21.4,73,42,22,7.1,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Stem Elongation / Jointing,Nagpur,Crown Rot,30.8,77,55,11,6.5,Fusarium pseudograminearum infects crown tissues.,Residue burning avoided; crop rotation applied.,Seed treatment with Tebuconazole.
+Stem Elongation / Jointing,Nagpur,Root Rot (Fusarium),30.8,72,66,11,6.6,Soil-borne Fusarium spp. infect roots under moist conditions.,Neem cake + Trichoderma soil application.,Carbendazim 50% WP @ 2 g/kg seed.
+Booting,Pune,Leaf Blight,25.1,73,58,0,7.4,Xanthomonas or fungal pathogens cause foliar lesions.,Neem oil 5% foliar spray.,Copper oxychloride 50% WP @ 3 g/L spray.
+Booting,Pune,Stripe Rust,26.4,55,47,20,7.0,Puccinia striiformis var. tritici infection.,Grow resistant varieties.,Propiconazole 25% EC @ 0.1% spray.
+Booting,Nashik,Leaf Blight,29.4,57,45,14,7.3,Xanthomonas or fungal pathogens cause foliar lesions.,Neem oil 5% foliar spray.,Copper oxychloride 50% WP @ 3 g/L spray.
+Booting,Nashik,Stripe Rust,20.5,86,64,23,6.6,Puccinia striiformis var. tritici infection.,Grow resistant varieties.,Propiconazole 25% EC @ 0.1% spray.
+Booting,Aurangabad,Leaf Blight,26.1,56,70,14,6.8,Xanthomonas or fungal pathogens cause foliar lesions.,Neem oil 5% foliar spray.,Copper oxychloride 50% WP @ 3 g/L spray.
+Booting,Aurangabad,Stripe Rust,25.6,75,51,24,6.9,Puccinia striiformis var. tritici infection.,Grow resistant varieties.,Propiconazole 25% EC @ 0.1% spray.
+Booting,Solapur,Leaf Blight,22.9,84,66,10,6.5,Xanthomonas or fungal pathogens cause foliar lesions.,Neem oil 5% foliar spray.,Copper oxychloride 50% WP @ 3 g/L spray.
+Booting,Solapur,Stripe Rust,27.5,78,44,7,7.2,Puccinia striiformis var. tritici infection.,Grow resistant varieties.,Propiconazole 25% EC @ 0.1% spray.
+Booting,Nagpur,Leaf Blight,29.2,71,41,10,7.1,Xanthomonas or fungal pathogens cause foliar lesions.,Neem oil 5% foliar spray.,Copper oxychloride 50% WP @ 3 g/L spray.
+Booting,Nagpur,Stripe Rust,25.6,64,69,4,6.4,Puccinia striiformis var. tritici infection.,Grow resistant varieties.,Propiconazole 25% EC @ 0.1% spray.
+Heading & Flowering,Pune,Fusarium Head Blight,31.1,70,70,8,6.6,Fusarium graminearum infects wheat heads during humidity.,Crop rotation and avoid overhead irrigation.,Tebuconazole 25% EC @ 0.1% spray.
+Heading & Flowering,Pune,Leaf Rust,22.0,60,46,6,7.2,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Heading & Flowering,Nashik,Fusarium Head Blight,21.9,67,60,15,6.9,Fusarium graminearum infects wheat heads during humidity.,Crop rotation and avoid overhead irrigation.,Tebuconazole 25% EC @ 0.1% spray.
+Heading & Flowering,Nashik,Leaf Rust,22.0,62,45,10,6.5,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Heading & Flowering,Aurangabad,Fusarium Head Blight,24.8,70,48,9,7.1,Fusarium graminearum infects wheat heads during humidity.,Crop rotation and avoid overhead irrigation.,Tebuconazole 25% EC @ 0.1% spray.
+Heading & Flowering,Aurangabad,Leaf Rust,23.0,79,64,22,7.3,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Heading & Flowering,Solapur,Fusarium Head Blight,23.6,59,49,11,6.5,Fusarium graminearum infects wheat heads during humidity.,Crop rotation and avoid overhead irrigation.,Tebuconazole 25% EC @ 0.1% spray.
+Heading & Flowering,Solapur,Leaf Rust,22.8,83,44,16,7.1,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Heading & Flowering,Nagpur,Fusarium Head Blight,22.6,89,64,12,7.0,Fusarium graminearum infects wheat heads during humidity.,Crop rotation and avoid overhead irrigation.,Tebuconazole 25% EC @ 0.1% spray.
+Heading & Flowering,Nagpur,Leaf Rust,29.3,76,40,22,7.2,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Grain Filling,Pune,Septoria Leaf Blotch,25.8,82,58,24,6.9,Septoria tritici infects leaves under humid conditions.,Improve air flow and avoid dense sowing.,Mancozeb 75% WP @ 0.2% spray.
+Grain Filling,Pune,Leaf Rust,23.8,55,56,8,6.7,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Grain Filling,Nashik,Septoria Leaf Blotch,33.7,60,41,4,6.4,Septoria tritici infects leaves under humid conditions.,Improve air flow and avoid dense sowing.,Mancozeb 75% WP @ 0.2% spray.
+Grain Filling,Nashik,Leaf Rust,27.7,79,43,0,7.3,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Grain Filling,Aurangabad,Septoria Leaf Blotch,29.6,85,50,9,6.9,Septoria tritici infects leaves under humid conditions.,Improve air flow and avoid dense sowing.,Mancozeb 75% WP @ 0.2% spray.
+Grain Filling,Aurangabad,Leaf Rust,30.8,55,43,24,6.5,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Grain Filling,Solapur,Septoria Leaf Blotch,22.5,76,51,19,6.5,Septoria tritici infects leaves under humid conditions.,Improve air flow and avoid dense sowing.,Mancozeb 75% WP @ 0.2% spray.
+Grain Filling,Solapur,Leaf Rust,24.1,70,60,10,6.8,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Grain Filling,Nagpur,Septoria Leaf Blotch,21.3,81,42,24,7.5,Septoria tritici infects leaves under humid conditions.,Improve air flow and avoid dense sowing.,Mancozeb 75% WP @ 0.2% spray.
+Grain Filling,Nagpur,Leaf Rust,22.5,72,57,14,7.2,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Maturity,Pune,Leaf Rust,23.0,78,60,22,6.8,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Maturity,Nashik,Leaf Rust,23.8,82,50,16,7.2,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Maturity,Aurangabad,Leaf Rust,30.3,72,47,21,7.3,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Maturity,Solapur,Leaf Rust,28.6,74,58,16,7.1,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Maturity,Nagpur,Leaf Rust,26.9,66,40,22,6.8,Puccinia triticina fungus causes leaf spots.,Balanced nitrogen fertilization.,Hexaconazole 5% EC @ 1 mL/L spray.
+Harvest,Pune,Storage Fungi (Aspergillus),26.9,71,66,3,6.4,Improper drying and high humidity in storage.,Dry grain below 12% moisture before storage.,Phosphine fumigation in sealed silos.
+Harvest,Nashik,Storage Fungi (Aspergillus),28.9,56,51,24,7.0,Improper drying and high humidity in storage.,Dry grain below 12% moisture before storage.,Phosphine fumigation in sealed silos.
+Harvest,Aurangabad,Storage Fungi (Aspergillus),26.3,83,54,0,7.0,Improper drying and high humidity in storage.,Dry grain below 12% moisture before storage.,Phosphine fumigation in sealed silos.
+Harvest,Solapur,Storage Fungi (Aspergillus),26.5,89,42,2,6.6,Improper drying and high humidity in storage.,Dry grain below 12% moisture before storage.,Phosphine fumigation in sealed silos.
+Harvest,Nagpur,Storage Fungi (Aspergillus),25.3,55,42,14,6.7,Improper drying and high humidity in storage.,Dry grain below 12% moisture before storage.,Phosphine fumigation in sealed silos.
+Post-Harvest,Pune,Weevil Infestation,20.6,89,42,3,7.0,Stored grain pest Sitophilus oryzae attacks grains.,Use neem leaf powder or ash as repellent.,Malathion 50% EC @ 2 mL/L spray (empty bins).
+Post-Harvest,Pune,Storage Fungi (Aspergillus),32.6,61,63,16,6.5,Improper drying and high humidity in storage.,Dry grain below 12% moisture before storage.,Phosphine fumigation in sealed silos.
+Post-Harvest,Nashik,Weevil Infestation,32.5,59,46,18,6.8,Stored grain pest Sitophilus oryzae attacks grains.,Use neem leaf powder or ash as repellent.,Malathion 50% EC @ 2 mL/L spray (empty bins).
+Post-Harvest,Nashik,Storage Fungi (Aspergillus),27.9,66,51,20,7.3,Improper drying and high humidity in storage.,Dry grain below 12% moisture before storage.,Phosphine fumigation in sealed silos.
+Post-Harvest,Aurangabad,Weevil Infestation,20.4,61,43,13,7.1,Stored grain pest Sitophilus oryzae attacks grains.,Use neem leaf powder or ash as repellent.,Malathion 50% EC @ 2 mL/L spray (empty bins).
+Post-Harvest,Aurangabad,Storage Fungi (Aspergillus),33.4,77,40,19,6.9,Improper drying and high humidity in storage.,Dry grain below 12% moisture before storage.,Phosphine fumigation in sealed silos.
+Post-Harvest,Solapur,Weevil Infestation,27.8,78,46,23,6.9,Stored grain pest Sitophilus oryzae attacks grains.,Use neem leaf powder or ash as repellent.,Malathion 50% EC @ 2 mL/L spray (empty bins).
+Post-Harvest,Solapur,Storage Fungi (Aspergillus),27.2,65,58,13,6.8,Improper drying and high humidity in storage.,Dry grain below 12% moisture before storage.,Phosphine fumigation in sealed silos.
+Post-Harvest,Nagpur,Weevil Infestation,25.1,55,43,19,7.3,Stored grain pest Sitophilus oryzae attacks grains.,Use neem leaf powder or ash as repellent.,Malathion 50% EC @ 2 mL/L spray (empty bins).
+Post-Harvest,Nagpur,Storage Fungi (Aspergillus),31.4,83,64,5,6.5,Improper drying and high humidity in storage.,Dry grain below 12% moisture before storage.,Phosphine fumigation in sealed silos.

@@ -1,0 +1,20 @@
+Crop Disease,Disease_Code
+Barley Yellow Dwarf Virus (BYDV),0
+Black Point,1
+Common Bunt,2
+Crown Rot,3
+Damping-off (Pythium),4
+Fusarium Head Blight,5
+Karnal Bunt,6
+Leaf Blight,7
+Leaf Rust,8
+Loose Smut,9
+Root Rot (Fusarium),10
+Seed Rot,11
+Seedling Blight (Fusarium),12
+Septoria Leaf Blotch,13
+Soilborne Pathogens,14
+Storage Fungi (Aspergillus),15
+Stripe Rust,16
+Weevil Infestation,17
+Yellow Rust,18
