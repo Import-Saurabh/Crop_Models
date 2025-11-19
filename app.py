@@ -63,7 +63,6 @@ def crop_stages():
         if maize_le is None:
             return jsonify({'crop_stages': []})
 
-        # FIX: Convert numpy int64 → python int
         stages = [int(x) for x in maize_le.classes_]
         return jsonify({'crop_stages': stages})
 
@@ -90,7 +89,6 @@ def predict():
     if stage is None:
         return jsonify({'error': 'Crop stage required'}), 400
 
-    # Convert stage to python int for LabelEncoder
     try:
         stage = int(stage)
     except:
@@ -140,7 +138,10 @@ def health():
     })
 
 
+# -----------------------------------------------------
+# RENDER / DOCKER ENTRY POINT
+# -----------------------------------------------------
 if __name__ == "__main__":
     print("\n🌱 Starting Crop Disease Prediction Server...")
-    print("📍 http://localhost:5000")
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)

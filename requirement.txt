@@ -1,4 +1,6 @@
 pandas 
 numpy
 sckit-learn
-tensorflow
+Flask
+numpy
+joblib
